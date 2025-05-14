@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+}
+
+.title {
+    background-color:rgb(66 28 40);
+    color: rgb(247, 130, 192);
+    border: 2px solid;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    width: 300px;
+
+}
+
+.links a{
+    background-color:  rgb(179 57 81);
+    color: white;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.links a:hover{
+    background-color: rgb(66 28 40);
+    color: white;
+}
